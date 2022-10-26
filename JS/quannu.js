@@ -69,7 +69,7 @@ const app = {
         var htmls = this.listao.map(function(ao, index) {
             return `
             <div class="col l-2-4 m-4 c-6">
-            <a class="home-product-item" href="#">
+            <a class="home-product-item" href="../HTML/quannuChiTietSP.html">
                 <div class="home-product-item__img" style=" background-image: url(${ao.image});">
                 </div>
                 <h4 class="home-product-item__name">
